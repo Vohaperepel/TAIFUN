@@ -37,9 +37,11 @@
     "versionFirst": "4.4.0",
     "uniqCompNum": 17,
     "versionPublish": "4.5.0",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/unnamed-128x54_1.png",
     "noImageResize": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": ""
   },
   "pages": {
     "index.html": {
